@@ -1,0 +1,656 @@
+{
+  "leads": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "1234567891"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice.j@example.com",
+      "phone": "1234567892"
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "email": "bob.brown@example.com",
+      "phone": "1234567893"
+    },
+    {
+      "id": 5,
+      "name": "Charlie White",
+      "email": "charlie.white@example.com",
+      "phone": "1234567894"
+    },
+    {
+      "id": 6,
+      "name": "David Black",
+      "email": "david.black@example.com",
+      "phone": "1234567895"
+    },
+    {
+      "id": 7,
+      "name": "Eva Green",
+      "email": "eva.green@example.com",
+      "phone": "1234567896"
+    },
+    {
+      "id": 8,
+      "name": "Frank Blue",
+      "email": "frank.blue@example.com",
+      "phone": "1234567897"
+    },
+    {
+      "id": 9,
+      "name": "Grace Red",
+      "email": "grace.red@example.com",
+      "phone": "1234567898"
+    },
+    {
+      "id": 10,
+      "name": "Henry Purple",
+      "email": "henry.purple@example.com",
+      "phone": "1234567899"
+    },
+    {
+      "id": 11,
+      "name": "Ivy Orange",
+      "email": "ivy.orange@example.com",
+      "phone": "1234567800"
+    },
+    {
+      "id": 12,
+      "name": "Jack Grey",
+      "email": "jack.grey@example.com",
+      "phone": "1234567801"
+    },
+    {
+      "id": 13,
+      "name": "Kate Cyan",
+      "email": "kate.cyan@example.com",
+      "phone": "1234567802"
+    },
+    {
+      "id": 14,
+      "name": "Leo Magenta",
+      "email": "leo.magenta@example.com",
+      "phone": "1234567803"
+    },
+    {
+      "id": 15,
+      "name": "Mia Brown",
+      "email": "mia.brown@example.com",
+      "phone": "1234567804"
+    },
+    {
+      "id": 16,
+      "name": "Nina Black",
+      "email": "nina.black@example.com",
+      "phone": "1234567805"
+    },
+    {
+      "id": 17,
+      "name": "Oscar Yellow",
+      "email": "oscar.yellow@example.com",
+      "phone": "1234567806"
+    },
+    {
+      "id": 18,
+      "name": "Paula Indigo",
+      "email": "paula.indigo@example.com",
+      "phone": "1234567807"
+    },
+    {
+      "id": 19,
+      "name": "Quincy Teal",
+      "email": "quincy.teal@example.com",
+      "phone": "1234567808"
+    },
+    {
+      "id": 20,
+      "name": "Rita Violet",
+      "email": "rita.violet@example.com",
+      "phone": "1234567809"
+    },
+    {
+      "id": 21,
+      "name": "Sam Pink",
+      "email": "sam.pink@example.com",
+      "phone": "1234567810"
+    },
+    {
+      "id": 22,
+      "name": "Tina Olive",
+      "email": "tina.olive@example.com",
+      "phone": "1234567811"
+    },
+    {
+      "id": 23,
+      "name": "Ursula Peach",
+      "email": "ursula.peach@example.com",
+      "phone": "1234567812"
+    },
+    {
+      "id": 24,
+      "name": "Victor Coral",
+      "email": "victor.coral@example.com",
+      "phone": "1234567813"
+    },
+    {
+      "id": 25,
+      "name": "Wendy Mint",
+      "email": "wendy.mint@example.com",
+      "phone": "1234567814"
+    },
+    {
+      "id": 26,
+      "name": "Xena Salmon",
+      "email": "xena.salmon@example.com",
+      "phone": "1234567815"
+    },
+    {
+      "id": 27,
+      "name": "Yara Lime",
+      "email": "yara.lime@example.com",
+      "phone": "1234567816"
+    },
+    {
+      "id": 28,
+      "name": "Zane Aqua",
+      "email": "zane.aqua@example.com",
+      "phone": "1234567817"
+    },
+    {
+      "id": 29,
+      "name": "Alice King",
+      "email": "alice.king@example.com",
+      "phone": "1234567818"
+    },
+    {
+      "id": 30,
+      "name": "Brad Queen",
+      "email": "brad.queen@example.com",
+      "phone": "1234567819"
+    },
+    {
+      "id": 31,
+      "name": "Clara Prince",
+      "email": "clara.prince@example.com",
+      "phone": "1234567820"
+    },
+    {
+      "id": 32,
+      "name": "Daniel Knight",
+      "email": "daniel.knight@example.com",
+      "phone": "1234567821"
+    },
+    {
+      "id": 33,
+      "name": "Elena Wizard",
+      "email": "elena.wizard@example.com",
+      "phone": "1234567822"
+    },
+    {
+      "id": 34,
+      "name": "Frank Wizard",
+      "email": "frank.wizard@example.com",
+      "phone": "1234567823"
+    },
+    {
+      "id": 35,
+      "name": "Gina Druid",
+      "email": "gina.druid@example.com",
+      "phone": "1234567824"
+    },
+    {
+      "id": 36,
+      "name": "Henry Sorcerer",
+      "email": "henry.sorcerer@example.com",
+      "phone": "1234567825"
+    },
+    {
+      "id": 37,
+      "name": "Isla Enchantress",
+      "email": "isla.enchantress@example.com",
+      "phone": "1234567826"
+    },
+    {
+      "id": 38,
+      "name": "Jake Mage",
+      "email": "jake.mage@example.com",
+      "phone": "1234567827"
+    },
+    {
+      "id": 39,
+      "name": "Kylie Healer",
+      "email": "kylie.healer@example.com",
+      "phone": "1234567828"
+    },
+    {
+      "id": 40,
+      "name": "Leo Necromancer",
+      "email": "leo.necromancer@example.com",
+      "phone": "1234567829"
+    },
+    {
+      "id": 41,
+      "name": "Maya Paladin",
+      "email": "maya.paladin@example.com",
+      "phone": "1234567830"
+    },
+    {
+      "id": 42,
+      "name": "Nate Berserker",
+      "email": "nate.berserker@example.com",
+      "phone": "1234567831"
+    },
+    {
+      "id": 43,
+      "name": "Olivia Rogue",
+      "email": "olivia.rogue@example.com",
+      "phone": "1234567832"
+    },
+    {
+      "id": 44,
+      "name": "Paul Ranger",
+      "email": "paul.ranger@example.com",
+      "phone": "1234567833"
+    },
+    {
+      "id": 45,
+      "name": "Quinn Bard",
+      "email": "quinn.bard@example.com",
+      "phone": "1234567834"
+    },
+    {
+      "id": 46,
+      "name": "Rory Thief",
+      "email": "rory.thief@example.com",
+      "phone": "1234567835"
+    },
+    {
+      "id": 47,
+      "name": "Steve Warrior",
+      "email": "steve.warrior@example.com",
+      "phone": "1234567836"
+    },
+    {
+      "id": 48,
+      "name": "Tina Shieldbearer",
+      "email": "tina.shieldbearer@example.com",
+      "phone": "1234567837"
+    },
+    {
+      "id": 49,
+      "name": "Ursula Protector",
+      "email": "ursula.protector@example.com",
+      "phone": "1234567838"
+    },
+    {
+      "id": 50,
+      "name": "Victor Sentinel",
+      "email": "victor.sentinel@example.com",
+      "phone": "1234567839"
+    }
+  ],
+  "campaigns": [
+    {
+      "id": 1,
+      "title": "Spring Sale",
+      "budget": 5000,
+      "startDate": "2023-03-01",
+      "endDate": "2023-03-31"
+    },
+    {
+      "id": 2,
+      "title": "Summer Promotion",
+      "budget": 7000,
+      "startDate": "2023-06-01",
+      "endDate": "2023-06-30"
+    },
+    {
+      "id": 3,
+      "title": "Fall Clearance",
+      "budget": 3000,
+      "startDate": "2023-09-01",
+      "endDate": "2023-09-30"
+    },
+    {
+      "id": 4,
+      "title": "Winter Specials",
+      "budget": 4000,
+      "startDate": "2023-12-01",
+      "endDate": "2023-12-31"
+    },
+    {
+      "id": 5,
+      "title": "Holiday Marketing",
+      "budget": 6000,
+      "startDate": "2023-12-15",
+      "endDate": "2023-12-31"
+    },
+    {
+      "id": 6,
+      "title": "New Year Campaign",
+      "budget": 8000,
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-15"
+    },
+    {
+      "id": 7,
+      "title": "Valentine's Day",
+      "budget": 3000,
+      "startDate": "2024-02-01",
+      "endDate": "2024-02-14"
+    },
+    {
+      "id": 8,
+      "title": "Easter Campaign",
+      "budget": 4000,
+      "startDate": "2024-03-01",
+      "endDate": "2024-04-01"
+    },
+    {
+      "id": 9,
+      "title": "Summer Kickoff",
+      "budget": 5000,
+      "startDate": "2024-05-01",
+      "endDate": "2024-05-31"
+    },
+    {
+      "id": 10,
+      "title": "Back to School",
+      "budget": 7000,
+      "startDate": "2024-08-01",
+      "endDate": "2024-08-31"
+    },
+    {
+      "id": 11,
+      "title": "Halloween Special",
+      "budget": 3000,
+      "startDate": "2024-10-01",
+      "endDate": "2024-10-31"
+    },
+    {
+      "id": 12,
+      "title": "Thanksgiving Promotion",
+      "budget": 4000,
+      "startDate": "2024-11-01",
+      "endDate": "2024-11-30"
+    },
+    {
+      "id": 13,
+      "title": "Black Friday Deals",
+      "budget": 6000,
+      "startDate": "2024-11-25",
+      "endDate": "2024-11-30"
+    },
+    {
+      "id": 14,
+      "title": "Cyber Monday Sales",
+      "budget": 7000,
+      "startDate": "2024-11-28",
+      "endDate": "2024-12-02"
+    },
+    {
+      "id": 15,
+      "title": "Winter Clearance",
+      "budget": 5000,
+      "startDate": "2024-12-01",
+      "endDate": "2024-12-31"
+    },
+    {
+      "id": 16,
+      "title": "New Year Resolutions",
+      "budget": 6000,
+      "startDate": "2025-01-01",
+      "endDate": "2025-01-15"
+    },
+    {
+      "id": 17,
+      "title": "Spring Awakening",
+      "budget": 8000,
+      "startDate": "2025-03-01",
+      "endDate": "2025-03-31"
+    },
+    {
+      "id": 18,
+      "title": "Summer Sizzle",
+      "budget": 7000,
+      "startDate": "2025-06-01",
+      "endDate": "2025-06-30"
+    },
+    {
+      "id": 19,
+      "title": "Fall Festival",
+      "budget": 4000,
+      "startDate": "2025-09-01",
+      "endDate": "2025-09-30"
+    },
+    {
+      "id": 20,
+      "title": "Year-End Sale",
+      "budget": 5000,
+      "startDate": "2025-12-01",
+      "endDate": "2025-12-31"
+    },
+    {
+      "id": 21,
+      "title": "Product Launch",
+      "budget": 10000,
+      "startDate": "2025-02-01",
+      "endDate": "2025-02-15"
+    },
+    {
+      "id": 22,
+      "title": "Community Outreach",
+      "budget": 3000,
+      "startDate": "2025-04-01",
+      "endDate": "2025-04-30"
+    },
+    {
+      "id": 23,
+      "title": "Corporate Partnership",
+      "budget": 7000,
+      "startDate": "2025-05-01",
+      "endDate": "2025-05-31"
+    },
+    {
+      "id": 24,
+      "title": "Charity Event",
+      "budget": 2000,
+      "startDate": "2025-06-01",
+      "endDate": "2025-06-30"
+    },
+    {
+      "id": 25,
+      "title": "VIP Event",
+      "budget": 5000,
+      "startDate": "2025-07-01",
+      "endDate": "2025-07-31"
+    },
+    {
+      "id": 26,
+      "title": "Seasonal Discount",
+      "budget": 3000,
+      "startDate": "2025-08-01",
+      "endDate": "2025-08-31"
+    },
+    {
+      "id": 27,
+      "title": "Market Research",
+      "budget": 4000,
+      "startDate": "2025-09-01",
+      "endDate": "2025-09-30"
+    },
+    {
+      "id": 28,
+      "title": "Customer Feedback",
+      "budget": 3000,
+      "startDate": "2025-10-01",
+      "endDate": "2025-10-31"
+    },
+    {
+      "id": 29,
+      "title": "Loyalty Program",
+      "budget": 5000,
+      "startDate": "2025-11-01",
+      "endDate": "2025-11-30"
+    },
+    {
+      "id": 30,
+      "title": "Referral Program",
+      "budget": 4000,
+      "startDate": "2025-12-01",
+      "endDate": "2025-12-31"
+    },
+    {
+      "id": 31,
+      "title": "Cross-Promotion",
+      "budget": 6000,
+      "startDate": "2025-01-01",
+      "endDate": "2025-01-15"
+    },
+    {
+      "id": 32,
+      "title": "Flash Sale",
+      "budget": 3000,
+      "startDate": "2025-02-01",
+      "endDate": "2025-02-15"
+    },
+    {
+      "id": 33,
+      "title": "Brand Awareness",
+      "budget": 4000,
+      "startDate": "2025-03-01",
+      "endDate": "2025-03-31"
+    },
+    {
+      "id": 34,
+      "title": "Influencer Collaboration",
+      "budget": 5000,
+      "startDate": "2025-04-01",
+      "endDate": "2025-04-30"
+    },
+    {
+      "id": 35,
+      "title": "Social Media Campaign",
+      "budget": 6000,
+      "startDate": "2025-05-01",
+      "endDate": "2025-05-31"
+    },
+    {
+      "id": 36,
+      "title": "Email Marketing",
+      "budget": 2000,
+      "startDate": "2025-06-01",
+      "endDate": "2025-06-30"
+    },
+    {
+      "id": 37,
+      "title": "Content Marketing",
+      "budget": 5000,
+      "startDate": "2025-07-01",
+      "endDate": "2025-07-31"
+    },
+    {
+      "id": 38,
+      "title": "SEO Optimization",
+      "budget": 7000,
+      "startDate": "2025-08-01",
+      "endDate": "2025-08-31"
+    },
+    {
+      "id": 39,
+      "title": "PPC Campaign",
+      "budget": 8000,
+      "startDate": "2025-09-01",
+      "endDate": "2025-09-30"
+    },
+    {
+      "id": 40,
+      "title": "Webinar Series",
+      "budget": 3000,
+      "startDate": "2025-10-01",
+      "endDate": "2025-10-31"
+    },
+    {
+      "id": 41,
+      "title": "Trade Show",
+      "budget": 6000,
+      "startDate": "2025-11-01",
+      "endDate": "2025-11-30"
+    },
+    {
+      "id": 42,
+      "title": "Networking Event",
+      "budget": 5000,
+      "startDate": "2025-12-01",
+      "endDate": "2025-12-31"
+    },
+    {
+      "id": 43,
+      "title": "Community Service",
+      "budget": 4000,
+      "startDate": "2025-01-01",
+      "endDate": "2025-01-15"
+    },
+    {
+      "id": 44,
+      "title": "Public Relations",
+      "budget": 3000,
+      "startDate": "2025-02-01",
+      "endDate": "2025-02-28"
+    },
+    {
+      "id": 45,
+      "title": "Media Buying",
+      "budget": 7000,
+      "startDate": "2025-03-01",
+      "endDate": "2025-03-31"
+    },
+    {
+      "id": 46,
+      "title": "Direct Mail Campaign",
+      "budget": 4000,
+      "startDate": "2025-04-01",
+      "endDate": "2025-04-30"
+    },
+    {
+      "id": 47,
+      "title": "Local Advertising",
+      "budget": 5000,
+      "startDate": "2025-05-01",
+      "endDate": "2025-05-31"
+    },
+    {
+      "id": 48,
+      "title": "Out-of-Home Marketing",
+      "budget": 6000,
+      "startDate": "2025-06-01",
+      "endDate": "2025-06-30"
+    },
+    {
+      "id": 49,
+      "title": "Event Sponsorship",
+      "budget": 3000,
+      "startDate": "2025-07-01",
+      "endDate": "2025-07-31"
+    },
+    {
+      "id": 50,
+      "title": "Holiday Promotions",
+      "budget": 7000,
+      "startDate": "2025-08-01",
+      "endDate": "2025-08-31"
+    }
+  ]
+}
