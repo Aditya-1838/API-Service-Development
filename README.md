@@ -41,7 +41,7 @@ Follow the instructions in the README to clone the repository, install dependenc
   - Description:Generates and downloads a PDF report containing metrics based on the leads and campaigns data.
   - The user will receive a PDF file download prompt.
 
-
+6.For sending Email you need to enter the sender and recipient email.
 
 
 ## Example Response:
